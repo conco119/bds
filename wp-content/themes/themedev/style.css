@@ -1,0 +1,102 @@
+/*
+  * Theme Name: Lap trinh theme
+  * Desciption: Theme from NgHaiDuy
+  * Version 1.0
+  * Theme Author: NgHaiDuy
+  * Language folder: /languages
+*/
+
+/*
+  Global style
+*/
+/*
+html {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+body {
+  font-size: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #d7d7d7;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+a{
+  color: #f6591c;
+  text-decoration: none;
+}
+
+a:hover, a:visited {
+  color: #ff1f00;
+  text-decoration: underline;
+}
+input, button {
+  border: 1px solid #c8c8c8 !important;
+  padding: 5px 10px;
+}
+h1 {
+  font-size: 2.2em;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+  font-size: 1.8em;
+}
+h4 {
+  font-size: 1.55em;
+}
+h5 {
+  font-size: 1.3em;
+}
+h6 {
+  font-size: 1.1em;
+}
+table, table tr, table td {
+  border: 1px solid #e7e7e7;
+  padding: 8px;
+}
+#container {
+  width: 1024px;
+  margin: 0 auto;
+  border: 1px solid red;
+  padding: 10px 25px;
+  background: white;
+}
+#content {
+  overflow: hidden;
+}
+#main-content {
+  width: 620px;
+  float:left;
+  margin-right: 10px;
+}
+#side-bar {
+  width: 320px;
+  float:right;
+  margin-left: 20px;
+}
+*/
+/*header logo*/
+/*
+.logo {
+  margin-bottom: 30px;
+  line-height: 2em;
+
+}
+.logo .site-name {
+
+}
+.logo .site-name h1 {
+  margin: 0;
+  font-size: 0px;
+}
+.logo .site-name a {
+  color: #0315f1;
+  font-size: 32px;
+}
+*/
