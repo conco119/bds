@@ -14,7 +14,7 @@ get_header();
                   <div class="col-sm-12 search-kinhnghiem">
 
 
-       <div class='col-sm-6 form-search'>
+       <div class='col-sm-12 form-search'>
              <div class='col-sm-12 form-kinhnghiem hvr-glow'>
           <div class='row category-kinhnghiem'>
              <span class='span-kinhnghiem'>TIN TỨC</span>
@@ -63,7 +63,7 @@ get_header();
 
 
 
-    <div class='col-sm-6 kinhnghiem'>
+    <div class='col-sm-12 kinhnghiem'>
        <div class='col-sm-12 form-kinhnghiem hvr-glow'>
           <div class='row category-kinhnghiem'>
              <span class='span-kinhnghiem'>KINH NGHIỆM</span>
